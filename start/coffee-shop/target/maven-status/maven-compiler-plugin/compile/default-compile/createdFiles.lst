@@ -1,0 +1,12 @@
+com\sebastian_daschner\coffee_shop\entity\CoffeeOrder.class
+com\sebastian_daschner\coffee_shop\entity\OrderStatus.class
+com\sebastian_daschner\coffee_shop\JAXRSConfiguration.class
+com\sebastian_daschner\coffee_shop\control\BaristaClient.class
+com\sebastian_daschner\coffee_shop\control\Orders.class
+com\sebastian_daschner\coffee_shop\health\CoffeeShopLivenessCheck.class
+com\sebastian_daschner\coffee_shop\control\Barista.class
+com\sebastian_daschner\coffee_shop\boundary\CoffeeShop.class
+com\sebastian_daschner\coffee_shop\boundary\OrdersResource.class
+com\sebastian_daschner\coffee_shop\entity\CoffeeType.class
+com\sebastian_daschner\coffee_shop\health\CoffeeShopReadinessCheck.class
+com\sebastian_daschner\coffee_shop\entity\CoffeeBrew.class

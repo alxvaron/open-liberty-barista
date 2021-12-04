@@ -10,7 +10,6 @@
         <feature>mpConfig-2.0</feature>
         <feature>mpRestClient-2.0</feature>
         <feature>jsonp-1.1</feature>
-        <feature>mpOpenAPI-2.0</feature>
     </featureManager>
 
     <webContainer trusted="false"/>

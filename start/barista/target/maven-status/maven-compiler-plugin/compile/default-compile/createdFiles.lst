@@ -1,0 +1,7 @@
+com\sebastian_daschner\barista\entity\CoffeeType.class
+com\sebastian_daschner\barista\entity\CoffeeBrew.class
+com\sebastian_daschner\barista\health\BaristaReadinessCheck.class
+com\sebastian_daschner\barista\JAXRSConfiguration.class
+com\sebastian_daschner\barista\boundary\BrewsResource.class
+com\sebastian_daschner\barista\boundary\CoffeeBrews.class
+com\sebastian_daschner\barista\health\BaristaLivenessCheck.class
